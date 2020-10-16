@@ -1,6 +1,7 @@
 # Purpose of this repository:
 
-Project template
+Coming soon:
+A web app for making and managing server-hosted bots via a simple web page for each bot, built on pyp.ai microservice API's.
 
 ## Who should someone contact if they have questions?						
 
